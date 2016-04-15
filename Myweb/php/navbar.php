@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Pnvds.com</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-	<link href="css/bootstrap.css" rel="stylesheet" media="screen"> 
-	<link href="css/style.css" rel="stylesheet" media="screen" type="text/css"> 
-
-</head>
-
-<header>
-  <nav class="navbar navbar-default navbar-fixed-top">
+ <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -54,27 +42,3 @@
         </div>
       </div>
   </nav>
-</header>
-
-<body>
-
-  <br>
-  <br>
-	<footer>
-  <div class="navbar-form navbar-right">
-        <p class="navbar-text">&copy CopyRight: Sergio Pnvds</p>
-      </div>
-</footer>
-	
-<script>
-  
-</script>
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>	
-<script src="js/bootstrap.min.js"> </script>
-	
-</body>
-
-
-</html>

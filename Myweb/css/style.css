@@ -12,3 +12,40 @@ nav.navbar {
 .brand {
     font-size: 200%;
 }
+footer {
+  position: absolute;
+  margin-bottom: 0px;
+  width: 100%;
+  clear:both;
+  padding: 0px ;
+  background-color: #FFA07A;
+  
+} 
+
+body {
+	padding-right: 12px;
+} 
+
+.margin-bottom-right{
+	margin-right: 12px;
+	margin-left: 3px;
+}
+
+.semititle {
+	padding-left: 40px;
+}
+
+.form-text-width {
+	 width: 40em;
+}
+.form-birth-width {
+	 width: 7em;
+}
+.form-group-margin {
+	padding-left: 0px;
+}
+
+.terms-text{
+	width: 90%;
+}
+
