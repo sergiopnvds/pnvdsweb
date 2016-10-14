@@ -1,0 +1,58 @@
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ 
+/* cambiar el color de fondo a la barra */
+nav.navbar {
+    background-color: #FFA07A;
+   
+
+}
+
+.brand {
+    font-size: 200%;
+}
+footer {
+  position: absolute;
+  margin-bottom: 0px;
+  width: 100%;
+  clear:both;
+  padding: 0px ;
+  background-color: #FFA07A;
+  
+} 
+
+
+
+body {
+	padding-right: 12px;
+} 
+
+.margin-bottom-right{
+	margin-right: 12px;
+	margin-left: 3px;
+}
+
+.semititle {
+	padding-left: 40px;
+}
+
+.form-text-width {
+	 width: 40em;
+}
+.form-birth-width {
+	 width: 6em;
+}
+.form-group-margin {
+	padding-left: 0px;
+    margin: 1px 1px 1px 1px ;
+}
+
+.terms-text{
+	width: 90%;
+}
+
+.email-color{
+  color: black;
+  padding-top: 15px;
+}
